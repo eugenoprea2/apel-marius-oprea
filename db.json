@@ -10,6 +10,12 @@
         "name": "Eugen Oprea",
         "eos_id": 323306,
         "segmentation": "Bronze",
+		"address":{
+			"localitate":"Bucuresti",
+			"strada":"Splaiul Independentei",
+			"numar":"290",
+			"sector":"Bucuresti - Sector 6"
+		},
         "orders": [
           {
             "date": "2018-02-06T22:20:30Z",
