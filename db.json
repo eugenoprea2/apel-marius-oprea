@@ -6,15 +6,15 @@
           "0722369516",
           "0730243855"
         ],
-        "email": "oprea_eugen20@yahoo.com",
-        "name": "Eugen Oprea",
-        "eos_id": 323306,
+        "email": "oprea_marius95@yahoo.com",
+        "name": "Marius Oprea",
+        "eos_id": 343306,
         "segmentation": "Bronze",
-		"address":{
-			"localitate":"Bucuresti",
-			"strada":"Splaiul Independentei",
-			"numar":"290",
-			"sector":"Bucuresti - Sector 6"
+	"address":{
+		"localitate":"Bucuresti",
+		"strada":"Splaiul Independentei",
+		"numar":"290",
+		"sector":"Bucuresti - Sector 6"
 		},
         "orders": [
           {
@@ -22,9 +22,9 @@
             "delivery_mode": "Showroom Titan",
             "payment_mode": "Numerar",
             "id": 41920922,
-            "contact_person": "Eugen Oprea",
+            "contact_person": "Marius Oprea",
             "products": [
-              "Suport TV de perete A+ SPB221, reglabil, 13\"-42\", Negru",
+              "Suport TV de perete",
               "Discount conform promotie: Promo A+"
             ]
           },
@@ -33,9 +33,9 @@
             "delivery_mode": "Showroom Titan",
             "payment_mode": "Numerar",
             "id": 40973983,
-            "contact_person": "Eugen Oprea",
+            "contact_person": "Marius Oprea",
             "products": [
-              "Espressor manual Breville Prima Latte VCF046X-01, 15 Bar, 1.5 l, Recipient detasabil lapte 0.3 l, Rosu inchis",
+              "Espressor manual Breville Prima Latte ",
               "Discount conform promotie: VCF046X-01",
               "Discount conform cod reducere: xxxxxxxxxxxo10"
             ]
@@ -47,7 +47,7 @@
             "id": 39259957,
             "contact_person": "Mihai Chiran",
             "products": [
-              "Cana de filtrare apa Brita Marella XL BR100317, 3.5 l, Albastru"
+              "Cana de filtrare apa"
             ]
           },
           {
@@ -55,10 +55,10 @@
             "delivery_mode": "Showroom Titan",
             "payment_mode": "Numerar",
             "id": 38996555,
-            "contact_person": "Eugen Oprea",
+            "contact_person": "Mariusica Oprea",
             "products": [
-              "Masina de tocat carne Bosch MFW66020, 1800 W, 3 Kg\/min, Functie reverse, 3 site, Alb\/Gri",
-              "Discount conform promotie: MFW66020"
+              "Masina de tocat carne Bosch",
+              "Discount conform promotie: 001"
             ]
           },
           {
@@ -66,10 +66,10 @@
             "delivery_mode": "Oficii Posta Romana",
             "payment_mode": "RAMBURS",
             "id": 38521428,
-            "contact_person": "Eugen Oprea",
+            "contact_person": "Marius Oprea",
             "products": [
-              "Camera Auto DVR 2Drive EXECUTIVE 3.0\" Full HD, 12MP, 1 Led Fill Light support Night Vision, cu card de memorie Kingston microSDHC 8GB, Class 10 + Adaptor",
-              "Discount conform promotie: 6426228055693"
+              "Camera Auto DVR 2Drive EXECUTIVE 3.0\" Full HD",
+              "Discount conform promotie: 002"
             ]
           }
         ]
