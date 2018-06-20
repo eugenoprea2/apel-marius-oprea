@@ -1,0 +1,73 @@
+{
+  "data": {
+    "customers": [
+      {
+        "phones": [
+          "0722369516",
+          "0730243855"
+        ],
+        "email": "oprea_eugen20@yahoo.com",
+        "name": "Eugen Oprea",
+        "eos_id": 323306,
+        "segmentation": "Bronze",
+        "orders": [
+          {
+            "date": "2018-02-06T22:20:30Z",
+            "delivery_mode": "Showroom Titan",
+            "payment_mode": "Numerar",
+            "id": 41920922,
+            "contact_person": "Eugen Oprea",
+            "products": [
+              "Suport TV de perete A+ SPB221, reglabil, 13\"-42\", Negru",
+              "Discount conform promotie: Promo A+"
+            ]
+          },
+          {
+            "date": "2018-01-06T19:01:36Z",
+            "delivery_mode": "Showroom Titan",
+            "payment_mode": "Numerar",
+            "id": 40973983,
+            "contact_person": "Eugen Oprea",
+            "products": [
+              "Espressor manual Breville Prima Latte VCF046X-01, 15 Bar, 1.5 l, Recipient detasabil lapte 0.3 l, Rosu inchis",
+              "Discount conform promotie: VCF046X-01",
+              "Discount conform cod reducere: xxxxxxxxxxxo10"
+            ]
+          },
+          {
+            "date": "2017-11-23T15:25:21Z",
+            "delivery_mode": "Showroom Titan",
+            "payment_mode": "Numerar",
+            "id": 39259957,
+            "contact_person": "Mihai Chiran",
+            "products": [
+              "Cana de filtrare apa Brita Marella XL BR100317, 3.5 l, Albastru"
+            ]
+          },
+          {
+            "date": "2017-11-18T00:01:05Z",
+            "delivery_mode": "Showroom Titan",
+            "payment_mode": "Numerar",
+            "id": 38996555,
+            "contact_person": "Eugen Oprea",
+            "products": [
+              "Masina de tocat carne Bosch MFW66020, 1800 W, 3 Kg\/min, Functie reverse, 3 site, Alb\/Gri",
+              "Discount conform promotie: MFW66020"
+            ]
+          },
+          {
+            "date": "2017-11-17T07:21:12Z",
+            "delivery_mode": "Oficii Posta Romana",
+            "payment_mode": "RAMBURS",
+            "id": 38521428,
+            "contact_person": "Eugen Oprea",
+            "products": [
+              "Camera Auto DVR 2Drive EXECUTIVE 3.0\" Full HD, 12MP, 1 Led Fill Light support Night Vision, cu card de memorie Kingston microSDHC 8GB, Class 10 + Adaptor",
+              "Discount conform promotie: 6426228055693"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
