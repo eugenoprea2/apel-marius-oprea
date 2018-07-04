@@ -17,17 +17,7 @@
 		"sector":"Bucuresti - Sector 6"
 		},
         "orders": [
-          {
-            "date": "2018-02-06T22:20:30Z",
-            "delivery_mode": "Showroom Titan",
-            "payment_mode": "Numerar",
-            "id": 41920922,
-            "contact_person": "Marius Oprea",
-            "products": [
-              "Suport TV de perete",
-              "Discount conform promotie: Promo A+"
-            ]
-          },
+      
           {
             "date": "2018-01-06T19:01:36Z",
             "delivery_mode": "Showroom Titan",
@@ -41,7 +31,7 @@
             ]
           },
           {
-            "date": "2017-11-23T15:25:21Z",
+            "date": "2015-11-27T15:25:21Z",
             "delivery_mode": "Showroom Titan",
             "payment_mode": "Numerar",
             "id": 39259957,
@@ -51,7 +41,7 @@
             ]
           },
           {
-            "date": "2017-11-18T00:01:05Z",
+            "date": "2016-01-18T00:01:05Z",
             "delivery_mode": "Showroom Titan",
             "payment_mode": "Numerar",
             "id": 38996555,
@@ -62,7 +52,7 @@
             ]
           },
           {
-            "date": "2017-11-17T07:21:12Z",
+            "date": "2017-12-17T07:21:12Z",
             "delivery_mode": "Oficii Posta Romana",
             "payment_mode": "RAMBURS",
             "id": 38521428,
